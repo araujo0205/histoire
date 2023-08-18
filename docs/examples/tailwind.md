@@ -32,7 +32,7 @@ We need to tell Histoire to use this file in the configuration file. [Learn more
 import { defineConfig } from 'histoire'
 
 export default defineConfig({
-  setupFile: '/src/histoire-setup.ts',
+  setupFile: '/src/histoire-setup.js',
 })
 ```
 
